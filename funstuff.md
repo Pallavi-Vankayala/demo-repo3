@@ -5,3 +5,7 @@ a = c(1,4,2,4,5,3)
 ## lets see if we can continue what we are doing 
 
 b = c("apples","banana")
+
+## now lets add some animals
+ 
+c=c("dog","cat","bird")
